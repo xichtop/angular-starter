@@ -1,0 +1,11 @@
+{
+  "common": {
+    "save": "Save",
+    "close": "Close",
+    "edit": "Edit",
+    "confirm": "Confirm"
+  },
+  "error": {
+    "unknown": "Oops, something went wrong. Please try again later."
+  }
+}

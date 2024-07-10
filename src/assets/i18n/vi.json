@@ -1,0 +1,11 @@
+{
+  "common": {
+    "save": "Lưu",
+    "close": "Đóng",
+    "edit": "Sửa",
+    "confirm": "Xác nhận"
+  },
+  "error": {
+    "unknown": "Úi, có lỗi xảy ra. Vui lòng thử lại sau."
+  }
+}

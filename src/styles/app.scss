@@ -1,0 +1,23 @@
+/* ----------------------------------------------------------------------------------------------------- */
+/*  @ App styles
+/* ----------------------------------------------------------------------------------------------------- */
+
+#APP_SAFE_AREA_TOP {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999998;
+  height: env(safe-area-inset-top);
+  background-color: var(--bg-status-bar);
+}
+
+#APP_SAFE_AREA_BOTTOM {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999998;
+  height: env(safe-area-inset-bottom);
+  background-color: var(--bg-status-bar);
+}
